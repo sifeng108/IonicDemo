@@ -1,0 +1,13 @@
+1.官方文档
+https://guides.github.com/activities/hello-world/
+介绍：repository、branch、commit、pull request
+重点：pull request出现冲突的样子
+
+2.视频教程（英文）
+https://v.qq.com/x/page/j0500v5cjyj.html
+
+2.1 命令行
+git clone #url#
+git status
+git add #new file name#(执行后再次执行git status查看区别)
+git commint -m #comment of submit#
