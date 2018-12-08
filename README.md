@@ -1,3 +1,3 @@
 # IonicDemo
 
-to be combined
+master readme
